@@ -1,2 +1,2 @@
 # 3DP-Watcher
-Initial repository
+The 3DP Watcher consists of an embedded system with a dedicated software that allows the users to control and monitor their 3D printer activities remotely through WiFi using their browser or mobile apps. The system offers a large number of features and has a very friendly GUI, being directed to hobbyists, research laboratories and companies that are looking for easier ways to manage their 3D printers.
